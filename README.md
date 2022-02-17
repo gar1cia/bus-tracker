@@ -16,7 +16,7 @@ Track Boston MBTA buses live!
 ```
 
 ## Roadmap of future improvements
-Track Los Angeles MTA busses.
+Track Los Angeles MTA buses.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

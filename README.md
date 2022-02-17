@@ -1,6 +1,6 @@
 # Real-Time Bus Tracker
 
-Track Boston MBTA busses live!
+Track Boston MBTA buses live!
 
 ## Installation
 
